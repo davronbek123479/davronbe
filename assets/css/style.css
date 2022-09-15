@@ -1,0 +1,40 @@
+.rel{
+    border: 1px solid black;
+    background-color: black;
+    margin-left: 40%;
+    margin-right: 42%;
+
+}
+p{
+    color: white;
+}
+body{
+    background-color: rgb(24, 28, 36);
+}
+h1{
+    color: white;
+    margin-top: -70px;
+}
+img{
+    height: 400px;
+    width: 340px;
+}
+h6{
+    color: white;
+}
+.t{
+    margin-top: -20px;
+}
+i{
+    color: red;
+}
+.k{
+    color: red;
+    border: 1px solid red;
+    width: 80px;
+}
+.icon{
+    position: absolute;
+    left: 775px;
+    top: 10px;
+}
